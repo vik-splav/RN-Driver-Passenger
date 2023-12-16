@@ -1,4 +1,3 @@
-![Screenshot](./images/readme/taxiApp1.png "Screenshot")
 # WeTaxi 
 A React-Native App that links Taxi Drivers and Passengers. It was built for POC.
 
